@@ -18,12 +18,15 @@ The project involved data wrangling and feature engineering to develop a functio
 - Matplotlib (for data visualization)
 - Seaborn (for data visualization)
 
-##Files
+## Files
 
 Udacity_AZDIAS_Subset.csv: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+
 Udacity_CUSTOMERS_Subset.csv: Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
+
 Data_Dictionary.md: Information file about the features in the provided datasets.
+
 AZDIAS_Feature_Summary.csv: Summary of feature attributes for demographic data.
 
-##Licensing
+## Licensing
 I am not allowed to publish the data provided by Arvato Financial Services due to the terms and conditions. In the notebook you will find my code and performed analysis on these datasets.
